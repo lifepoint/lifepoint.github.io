@@ -71,7 +71,7 @@ A. A reversible jersey, shorts and a flag belt.
 A. All games are held on Saturdays.
 
 **Q. How often do teams practice?**<br>
-A. Teams are required to practice once a week (Monday-Thursday) for 1 hour. Coaches will often speak to the team and set up and additional practices.
+A. Teams are required to practice once a week (Monday-Thursday) for 1 hour. Coaches will often speak to the team and set up any additional practices.
 
 **Q. Where are games and practices held?**<br>
 A.  All league games and practices are held at Sierra View Elementary.  It is mandatory for teams to hold their league practice (once a week) at Sierra View.  Additional practices scheduled by coaches may be held off site.

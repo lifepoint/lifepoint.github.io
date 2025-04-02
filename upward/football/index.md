@@ -11,10 +11,10 @@ order: 1
 
 # FLAG FOOTBALL FALL LEAGUE 2025
 
-**REGISTRATION CLOSED**<br>
+<br>
 
-**BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/18<br>
-When: August 19 - October 26, 2024<br>
+**BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/19<br>
+When: August 18 - October 25, 2025<br>
 Fees: $130 per player (sibling discounts available)<br>
 Includes: 8 game season, reversible jersey and shorts<br>
 **NOTE: Each division has a LIMITED NUMBER of available spots.  Waiting lists will form once filled.**
@@ -31,15 +31,17 @@ Sierra View Elementary School<br>
 Oakdale, CA 95361
 
 **Important Dates:**
-- August 14, 2024 - Coach Meeting (Coaches Only)
-- August 19, 2024 - Practices Begin
-- August 24 - Picture Day
-- September 7, 2024 - Games Begin
-- October 26, 2024 - Last game
+- June 28, 2025 - Player Evaluations
+- July 1, 2025 - Makeup Evaluations
+- July 19, 2025 - Draft Day - (Coaches Only)
+- August 18, 2025 - Practices Begin
+- August 23, 2025 - Picture Day
+- September 6, 2025 - Games Begin
+- October 25, 2025 - Last games
 
 ### FAQs
 **Q. Can my child play soccer/baseball and flag football?**<br>
-A.  We **highly recommend** your child participate in only one sport per season.  Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play.  Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
+A.  We **highly recommend** your child participate in only one sport per season.  Athletes playing another sports that interfere with practices and games may be cut from the league to accommodate the waitlisted players.Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play.  Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
 
 **Q. Will there be a make-up picture day?**<br>
 A. No.  There will only be 1 picture day. This date can be found in the Important Dates section on the website as well as in your registration confirmation email.
@@ -80,7 +82,7 @@ A.  All league games and practices are held at Sierra View Elementary.  It is ma
 
 **As an Upward Sports PARENT**
 
-You will see your young athlete develop in Volleyball skills and so much more. Upward Sports firmly believes that its 360 Progression offers the most complete sports experience possible for your young athletes as they grow both on and off the court or field of competition.
+You will see your young athlete develop in football skills and so much more. Upward Sports firmly believes that its 360 Progression offers the most complete sports experience possible for your young athletes as they grow both on and off the court or field of competition.
 
 **TRANSFORM the life of your young athlete**
 

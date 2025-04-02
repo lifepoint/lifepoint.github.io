@@ -41,7 +41,7 @@ Oakdale, CA 95361
 
 ### FAQs
 **Q. Can my child play soccer/baseball and flag football?**<br>
-A.  We **highly recommend** your child participate in only one sport per season.  Athletes playing another sports that interfere with practices and games may be cut from the league to accommodate the waitlisted players.Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play.  Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
+A.  We **highly recommend** your child participate in only one sport per season.  Athletes playing other sports that interfere with practices and games may be cut from the league to accommodate the waitlisted players. Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play.  Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
 
 **Q. Will there be a make-up picture day?**<br>
 A. No.  There will only be 1 picture day. This date can be found in the Important Dates section on the website as well as in your registration confirmation email.

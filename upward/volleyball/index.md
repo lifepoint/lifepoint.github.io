@@ -11,14 +11,14 @@ order: 2
 
 # VOLLEYBALL SPRING 2025
 
+## REGISTRATION IS CLOSED
+
 **Volleyball Location:**<br>
 Oakdale Junior High School<br>
 400 S Maag Ave<br>
 Oakdale, CA 95361
 
 ## BOYS AND GIRLS, Grades 1st-4th
-
-<a class="upward-register-btn" href="https://registration.upward.org/UPW87810">REGISTER NOW</a>
 
 This is a once-a-week (mainly Thursdays) **clinic-style program** that focuses on skills. Players will break off into various groups each week and be given the opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games. 
 
@@ -31,8 +31,8 @@ This is a once-a-week (mainly Thursdays) **clinic-style program** that focuses o
 - March 27
 - April 3
 - April 10
-- April 17 - Start times wil be pushed back 30 minutes.
-
+- April 17 - Start times wil be pushed back 30 minutes.<br>
+_*Dates and times may vary based upon gym availability._
 
 **Fees:** Grades 1st-4th $100  - 7 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
 
@@ -47,13 +47,11 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 ### Spring Volleyball League 2025
 
-<a class="upward-register-btn" href="https://registration.upward.org/UPW87815">REGISTER NOW</a>
-
 **About:** Players will practice 1x each week (mainly Tuesdays and Wednesdays). Games will be played on Saturdays.  See important dates listed below.
 
 **Fees:** Grades 5th-8th $125  - Includes: 2 clinics, 5 games, 1 playoff/tournament; a long-sleeved jersey (girl/women) OR a short-sleeved jersey (boy/men) and volleyball. Non-refundable
 
-**Coaches Needed:** Head Coaches (only) are eligible for a player discount. Please reach out to Vanessa at (209) 327-4838 prior to registering.  _NOTE:_ Mandatory Coach skills training / meeting will be held March 8, 2025 following the player clinic at 3pm.
+**Coaches Needed:** Head Coaches (only) are eligible for a player discount. Please reach out to Vanessa at (209) 327-4838 prior to registering.  _NOTE:_ Mandatory Coach skills training / meeting will be held March 1, 2025 following the player clinic at 1:15pm.
 
 **MARCH 1 CLINIC**<br>
 5th-6th Grade (A-K): 9:00am-10:00am<br>
@@ -65,13 +63,14 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 5th-6th Grade (TBD): 9:00am-10:00am<br>
 5th-6th Grade (TBD: 10:00am-11:00pm<br>
 7th-8th Grade (TBD): 11:00am-12:00pm<br>
-7th-8th Grade (TBD): 12:00pm-1:00pm
+7th-8th Grade (TBD): 12:00pm-1:00pm<br>
+_*Dates and times may vary based upon gym availability._
 
 Clinic days will give players an opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn Volleyball fundamentals and social skills through a series of instructional circuits and developmental games.  Players will be evaluated during this time and placed on a team accordingly.
 
 **Important Dates:**
 - March 1 and 8 - Clinics
-- March 8  - Mandatory Coach Meeting / Skills Training: 3pm
+- March 8  - Coaches Only: Mandatory Coach Meeting / Skills Training: 1:15pm
 - March 9 - Team rosters will be distributed
 - March 10 - Team practices begin. Timeslots will be between 5 - 8 pm
 - March 15 - Games begin

@@ -11,13 +11,13 @@ order: 1
 
 # FLAG FOOTBALL FALL LEAGUE 2025
 
-<br>
+<a class="upward-register-btn" href="https://registration.upward.org/UPW88255">REGISTER NOW</a>
 
 **BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/19<br>
 When: August 18 - October 25, 2025<br>
 Fees: $130 per player (sibling discounts available)<br>
 Includes: 8 game season, reversible jersey and shorts<br>
-**NOTE: Each division has a LIMITED NUMBER of available spots.  Waiting lists will form once filled.**
+**NOTE: Each division has a LIMITED NUMBER of available spots. Waiting lists will form once filled.**
 
 **Division Breakdown:**<br>
 1st-2nd Grade<br>
@@ -31,6 +31,7 @@ Sierra View Elementary School<br>
 Oakdale, CA 95361
 
 **Important Dates:**
+
 - June 28, 2025 - Player Evaluations
 - July 1, 2025 - Makeup Evaluations
 - July 19, 2025 - Draft Day - (Coaches Only)
@@ -40,17 +41,18 @@ Oakdale, CA 95361
 - October 25, 2025 - Last games
 
 ### FAQs
+
 **Q. Can my child play soccer/baseball and flag football?**<br>
-A.  We highly recommend your child participate in only one sport per season.  **Athletes playing other sports that interfere with practices and games may be cut from the league to accommodate the waitlisted players.** Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play.  Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
+A. We highly recommend your child participate in only one sport per season. **Athletes playing other sports that interfere with practices and games may be cut from the league to accommodate the waitlisted players.** Both teams suffer when players cannot fully commit, and it makes it difficult for coaches to establish game play. Oakdale Upward Sports will not make any special accommodations for multi-sport athletes.
 
 **Q. Will there be a make-up picture day?**<br>
-A. No.  There will only be 1 picture day. This date can be found in the Important Dates section on the website as well as in your registration confirmation email.
+A. No. There will only be 1 picture day. This date can be found in the Important Dates section on the website as well as in your registration confirmation email.
 
 **Q. Can I request a coach or teammate?**<br>
-A.  Coaches draft teams, therefore making it impossible for requests to be met.
+A. Coaches draft teams, therefore making it impossible for requests to be met.
 
 **Q. Can I request a specific practice day?**<br>
-A.  You can put in a request; however, practice days / times are at the coach’s discretion.  There is no guarantee we can accommodate your request.
+A. You can put in a request; however, practice days / times are at the coach’s discretion. There is no guarantee we can accommodate your request.
 
 **Q. What size football will be used during games?**<br>
 A. 1st-2nd grade will use a Pee-Wee sized ball. 3rd-6th grade will use a Junior sized ball.
@@ -74,9 +76,7 @@ A. All games are held on Saturdays.
 A. Teams are required to practice once a week (Monday-Thursday) for 1 hour. Coaches will often speak to the team and set up any additional practices.
 
 **Q. Where are games and practices held?**<br>
-A.  All league games and practices are held at Sierra View Elementary.  It is mandatory for teams to hold their league practice (once a week) at Sierra View.  Additional practices scheduled by coaches may be held off site.
-
-
+A. All league games and practices are held at Sierra View Elementary. It is mandatory for teams to hold their league practice (once a week) at Sierra View. Additional practices scheduled by coaches may be held off site.
 
 ### About
 

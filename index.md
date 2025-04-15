@@ -7,6 +7,12 @@ published: true
 # News
 
 
+**Good Friday Services**<br>
+Apr 18, 2025<br>
+5:30am-7:00am<br>
+5:30pm-7:00pm<br>
+Come and go as you please. Spend time with the Lord. Communion elements will be available.
+
 
 **Sunday Service**
 

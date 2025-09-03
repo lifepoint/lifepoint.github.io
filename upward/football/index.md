@@ -11,7 +11,8 @@ order: 1
 
 # FLAG FOOTBALL FALL LEAGUE 2025
 
-<a class="upward-register-btn" href="https://registration.upward.org/UPW88255">REGISTER NOW</a>
+<!--<a class="upward-register-btn" href="https://registration.upward.org/UPW88255">REGISTER NOW</a>-->
+REGISTRATION CLOSED
 
 **BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/19<br>
 When: August 18 - October 25, 2025<br>

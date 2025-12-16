@@ -46,7 +46,7 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 ## BOYS AND GIRLS, Grades 5th-8th
 
-### Spring Volleyball League 2026
+### Spring Volleyball League 2026**
 
 **About:** Players will practice 1x each week (mainly Mondays and Tuesdays). Games will be played on Saturdays.  See important dates listed below.
 

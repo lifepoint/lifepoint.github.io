@@ -9,9 +9,9 @@ order: 2
 
 # Oakdale Upward Sports
 
-# VOLLEYBALL SPRING 2025
+# VOLLEYBALL SPRING 2026
 
-## REGISTRATION IS CLOSED
+## REGISTER NOW
 
 **Volleyball Location:**<br>
 Oakdale Junior High School<br>
@@ -20,27 +20,28 @@ Oakdale, CA 95361
 
 ## BOYS AND GIRLS, Grades 1st-4th
 
-This is a once-a-week (mainly Thursdays) **clinic-style program** that focuses on skills. Players will break off into various groups each week and be given the opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games. 
+This is a once-a-week (mainly Wednesdays) **clinic-style program** that focuses on skills. Players will break off into various groups each week and be given the opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games. 
 
 **Clinic Dates are as follows:**<br>
 	1st-2nd Grade - 5:00-6:00pm<br>
 	3rd-4th Grade - 6:00-7:30pm
-- March 6
-- March 13
-- March 20
-- March 27
-- April 3
-- April 10
-- April 17 - Start times wil be pushed back 30 minutes.<br>
+- March 4
+- March 11
+- March 18
+- March 25
+- April 2
+- April 15 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
+- April 22 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
+- April 29
 _*Dates and times may vary based upon gym availability._
 
-**Fees:** Grades 1st-4th $100  - 7 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
+**Fees:** Grades 1st-4th $100  - 8 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
 
 Players must provide their own knee-pads and black shorts. Indoor court shoes are recommended.
 
 **Volunteers needed:**  Volunteers are needed to help run drills as players break into smaller groups.  All skills will be demonstrated by Coach Joceyln prior to groups breaking out.  When registering, please sign up as a “coach.”  
 
-**Picture Day:** Picture Day will be held on _March 15_.  All players are encouraged to come and get an individual player or buddy picture. No team pictures will be taken. 
+**Picture Day:** Picture Day will be held on _March 14_.  All players are encouraged to come and get an individual player or buddy picture. No team pictures will be taken. 
 
 
 ## BOYS AND GIRLS, Grades 5th-8th

@@ -24,7 +24,8 @@ This is a once-a-week (mainly Wednesdays) **clinic-style program** that focuses 
 
 **Clinic Dates are as follows:**<br>
 	1st-2nd Grade - 5:00-6:00pm<br>
-	3rd-4th Grade - 6:00-7:30pm
+	3rd-4th Grade - 6:00-7:30pm<br>
+    _*Dates and times may vary based upon gym availability._
 - March 4
 - March 11
 - March 18
@@ -33,7 +34,7 @@ This is a once-a-week (mainly Wednesdays) **clinic-style program** that focuses 
 - April 15 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
 - April 22 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
 - April 29
-_*Dates and times may vary based upon gym availability._
+
 
 **Fees:** Grades 1st-4th $100  - 8 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
 

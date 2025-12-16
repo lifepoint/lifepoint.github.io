@@ -46,7 +46,7 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 ## BOYS AND GIRLS, Grades 5th-8th
 
-### Spring Volleyball League 2025
+### Spring Volleyball League 2026
 
 **About:** Players will practice 1x each week (mainly Mondays and Tuesdays). Games will be played on Saturdays.  See important dates listed below.
 
@@ -67,7 +67,7 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 7th-8th Grade (TBD): 12:00pm-1:00pm<br>
 _*Dates and times may vary based upon gym availability._
 
-Clinic days will give players an opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn Volleyball fundamentals and social skills through a series of instructional circuits and developmental games.  Players will be evaluated during this time and placed on a team accordingly.
+Clinic days will give players an opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games.  Players will be evaluated during this time and placed on a team accordingly.
 
 **Important Dates:**
 - February 28 and March 7 - Clinics

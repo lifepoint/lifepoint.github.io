@@ -35,7 +35,6 @@ This is a once-a-week (mainly Wednesdays) **clinic-style program** that focuses 
 - April 22 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
 - April 29
 
-
 **Fees:** Grades 1st-4th $100  - 8 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
 
 Players must provide their own knee-pads and black shorts. Indoor court shoes are recommended.
@@ -49,19 +48,19 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 ### Spring Volleyball League 2025
 
-**About:** Players will practice 1x each week (mainly Tuesdays and Wednesdays). Games will be played on Saturdays.  See important dates listed below.
+**About:** Players will practice 1x each week (mainly Mondays and Tuesdays). Games will be played on Saturdays.  See important dates listed below.
 
-**Fees:** Grades 5th-8th $125  - Includes: 2 clinics, 5 games, 1 playoff/tournament; a long-sleeved jersey (girl/women) OR a short-sleeved jersey (boy/men) and volleyball. Non-refundable
+**Fees:** Grades 5th-8th $125  - Includes: 2 clinics, 7 games, 1 playoff/tournament; a long-sleeved jersey (girl/women) OR a short-sleeved jersey (boy/men) and volleyball. Non-refundable
 
-**Coaches Needed:** Head Coaches (only) are eligible for a player discount. Please reach out to Vanessa at (209) 327-4838 prior to registering.  _NOTE:_ Mandatory Coach skills training / meeting will be held March 1, 2025 following the player clinic at 1:15pm.
+**Coaches Needed:** Head Coaches (only) are eligible for a player discount. Please reach out to Vanessa at (209) 327-4838 prior to registering.  _NOTE:_ Mandatory Coach skills training / meeting will be held March 7, 2026 following the player clinic at 1:15pm.
 
-**MARCH 1 CLINIC**<br>
+**February 28 CLINIC**<br>
 5th-6th Grade (A-K): 9:00am-10:00am<br>
 5th-6th Grade (L-Z): 10:00am-11:00pm<br>
 7th-8th Grade (A-K): 11:00am-12:00pm<br>
 7th-8th Grade (L-Z): 12:00pm-1:00pm
 
-**MARCH 8 CLINIC**<br>
+**MARCH 7 CLINIC**<br>
 5th-6th Grade (TBD): 9:00am-10:00am<br>
 5th-6th Grade (TBD: 10:00am-11:00pm<br>
 7th-8th Grade (TBD): 11:00am-12:00pm<br>
@@ -71,13 +70,13 @@ _*Dates and times may vary based upon gym availability._
 Clinic days will give players an opportunity to learn basic volleyball skills.  With the use of age-appropriate curriculum and modified equipment, participants learn Volleyball fundamentals and social skills through a series of instructional circuits and developmental games.  Players will be evaluated during this time and placed on a team accordingly.
 
 **Important Dates:**
-- March 1 and 8 - Clinics
-- March 8  - Coaches Only: Mandatory Coach Meeting / Skills Training: 1:15pm
-- March 9 - Team rosters will be distributed
-- March 10 - Team practices begin. Timeslots will be between 5 - 8 pm
-- March 15 - Games begin
-- March 15 - Picture Day
-- April 19 - Playoffs / Tournament
+- February 28 and March 7 - Clinics
+- March 7  - Coaches Only: Mandatory Coach Meeting / Skills Training: 1:15pm
+- March 8 - Team rosters will be distributed
+- March 9 - Team practices begin. Timeslots will be between 5 - 8 pm
+- March 14 - Games begin
+- March 14 - Picture Day
+- May 9 - Playoffs / Tournament
 
 Players must provide their own knee-pads and black shorts. Indoor court shoes are recommended.
 

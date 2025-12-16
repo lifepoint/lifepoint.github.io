@@ -50,6 +50,8 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 **About:** Players will practice 1x each week (mainly Mondays and Tuesdays). Games will be played on Saturdays.  See important dates listed below.
 
+**Boys Division** Our intent is to form all-boys teams if participation numbers allow. With limited enrollment, this may result in teams being adjusted from week to week, and games will be played as scrimmages between the two boys teams rather than scheduled league matchups. If participation numbers do not allow for all-boys teams, registered boys will be placed on co-ed teams.
+
 **Fees:** Grades 5th-8th $125  - Includes: 2 clinics, 7 games, 1 playoff/tournament; a long-sleeved jersey (girl/women) OR a short-sleeved jersey (boy/men) and volleyball. Non-refundable
 
 **Coaches Needed:** Head Coaches (only) are eligible for a player discount. Please reach out to Vanessa at (209) 327-4838 prior to registering.  _NOTE:_ Mandatory Coach skills training / meeting will be held March 7, 2026 following the player clinic at 1:15pm.

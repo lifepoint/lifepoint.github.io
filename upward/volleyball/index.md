@@ -11,7 +11,7 @@ order: 2
 
 # VOLLEYBALL SPRING 2026
 
-## REGISTER NOW
+## REGISTRATION CLOSED
 
 **Volleyball Location:**<br>
 Oakdale Junior High School<br>
@@ -19,8 +19,6 @@ Oakdale Junior High School<br>
 Oakdale, CA 95361
 
 ## BOYS AND GIRLS, Grades 1st-4th
-
-<a class="upward-register-btn" href="https://registration.upward.org/UPW90031">REGISTER NOW</a>
 
 This is a once-a-week (mainly Wednesdays) **clinic-style program** that focuses on skills. Players will break off into various groups each week and be given the opportunity to learn basic volleyball skills. With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games. 
 
@@ -34,8 +32,8 @@ _\*Dates and times may vary based upon gym availability._
 - March 18
 - March 25
 - April 2
-- April 15 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
-- April 22 - Start times may be pushed back slightly to accomodate JrHi Volleyball game.
+- April 15 - Start times may be pushed back slightly to accommodate JrHi Volleyball game.
+- April 22 - Start times may be pushed back slightly to accommodate JrHi Volleyball game.
 - April 29
 
 **Fees:** Grades 1st-4th $100 - 8 weeks, includes a long-sleeved jersey (girl/women) OR a short-sleeved t-shirt (boy/men) and volleyball. Non-refundable.
@@ -54,7 +52,7 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 
 **About:** Players will practice 1x each week (mainly Mondays and Tuesdays). Games will be played on Saturdays. See important dates listed below.
 
-**Boys Division:** Our intent is to form all-boys teams if participation numbers allow. With limited enrollment, this may result in teams being adjusted from week to week, and games will be played as scrimmages between the two boys teams rather than scheduled league matchups. If participation numbers do not allow for all-boys teams, registered boys will be placed on co-ed teams.
+**Boys Division:** With limited enrollment, teams will be adjusted from week to week, and games will be played as scrimmages between the two boys teams rather than scheduled league matchups. 
 
 **Fees:** Grades 5th-8th $125 - Includes: 2 clinics, 7 games, 1 playoff/tournament; a long-sleeved jersey (girl/women) OR a short-sleeved jersey (boy/men) and volleyball. Non-refundable
 
@@ -64,13 +62,15 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 5th-6th Grade (A-K): 9:00am-10:00am<br>
 5th-6th Grade (L-Z): 10:00am-11:00pm<br>
 7th-8th Grade (A-K): 11:00am-12:00pm<br>
-7th-8th Grade (L-Z): 12:00pm-1:00pm
+7th-8th Grade (L-Z): 12:00pm-1:00pm<br>
+All Boys: 1:00pm-2:00pm
 
 **MARCH 7 CLINIC**<br>
 5th-6th Grade (TBD): 9:00am-10:00am<br>
 5th-6th Grade (TBD: 10:00am-11:00pm<br>
 7th-8th Grade (TBD): 11:00am-12:00pm<br>
 7th-8th Grade (TBD): 12:00pm-1:00pm<br>
+All Boys: 1:00pm-2:00pm
 _\*Dates and times may vary based upon gym availability._
 
 Clinic days will give players an opportunity to learn basic volleyball skills. With the use of age-appropriate curriculum and modified equipment, participants learn volleyball fundamentals and social skills through a series of instructional circuits and developmental games.  Players will be evaluated during this time and placed on a team accordingly.

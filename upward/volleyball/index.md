@@ -64,10 +64,7 @@ Players must provide their own knee-pads and black shorts. Indoor court shoes ar
 All Boys: 1:00pm-2:00pm
 
 **MARCH 7 CLINIC**<br>
-5th-6th Grade (TBD): 9:00am-10:00am<br>
-5th-6th Grade (TBD: 10:00am-11:00pm<br>
-7th-8th Grade (TBD): 11:00am-12:00pm<br>
-7th-8th Grade (TBD): 12:00pm-1:00pm<br>
+5th-8th Grade: Times vary; Please check your email.<br>
 All Boys: 1:00pm-2:00pm<br>
 _\*Dates and times may vary based upon gym availability._
 

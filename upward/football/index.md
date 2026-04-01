@@ -9,13 +9,13 @@ order: 1
 
 # Oakdale Upward Sports
 
-# FLAG FOOTBALL FALL LEAGUE 2025
+# FLAG FOOTBALL FALL LEAGUE 2026
 
 <!--<a class="upward-register-btn" href="https://registration.upward.org/UPW88255">REGISTER NOW</a>-->
-REGISTRATION CLOSED
+REGISTRATION OPENING SOON
 
-**BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/19<br>
-When: August 18 - October 25, 2025<br>
+**BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/20<br>
+When: August 17 - October 24, 2026<br>
 Fees: $130 per player (sibling discounts available)<br>
 Includes: 8 game season, reversible jersey and shorts<br>
 **NOTE: Each division has a LIMITED NUMBER of available spots. Waiting lists will form once filled.**
@@ -33,13 +33,14 @@ Oakdale, CA 95361
 
 **Important Dates:**
 
-- June 28, 2025 - Player Evaluations
-- July 1, 2025 - Makeup Evaluations
-- July 19, 2025 - Draft Day - (Coaches Only)
-- August 18, 2025 - Practices Begin
-- August 23, 2025 - Picture Day
-- September 6, 2025 - Games Begin
-- October 25, 2025 - Last games
+- June 20, 2026 - Player Evaluations
+- June 24, 2026 - Makeup Evaluations
+- July 11, 2026 - Draft Day - (Coaches Only)
+- August 5, 2026 - Coach Meeting - (Coaches Only)
+- August 17, 2026 - Practices Begin
+- August 22, 2026 - Picture Day
+- September 5, 2026 - Games Begin
+- October 24, 2025 - Last games
 
 ### FAQs
 

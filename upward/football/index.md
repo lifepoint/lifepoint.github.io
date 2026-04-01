@@ -18,6 +18,7 @@ REGISTRATION OPENING SOON
 When: August 17 - October 24, 2026<br>
 Fees: $130 per player (sibling discounts available)<br>
 Includes: 8 game season, reversible jersey and shorts<br>
+
 **NOTE: Each division has a LIMITED NUMBER of available spots. Waiting lists will form once filled.**
 
 **Division Breakdown:**<br>
@@ -35,8 +36,8 @@ Oakdale, CA 95361
 
 - June 20, 2026 - Player Evaluations
 - June 24, 2026 - Makeup Evaluations
-- July 11, 2026 - Draft Day - (Coaches Only)
-- August 5, 2026 - Coach Meeting - (Coaches Only)
+- July 11, 2026 - Draft Day (Coaches Only)
+- August 5, 2026 - Coach Meeting (Coaches Only)
 - August 17, 2026 - Practices Begin
 - August 22, 2026 - Picture Day
 - September 5, 2026 - Games Begin

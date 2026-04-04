@@ -11,8 +11,8 @@ order: 1
 
 # FLAG FOOTBALL FALL LEAGUE 2026
 
-<!--<a class="upward-register-btn" href="https://registration.upward.org/UPW88255">REGISTER NOW</a>-->
-REGISTRATION OPENING SOON
+<a class="upward-register-btn" href="https://registration.upward.org/UPW90429">REGISTER NOW</a>
+<!--REGISTRATION OPENING SOON-->
 
 **BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/20<br>
 When: August 17 - October 24, 2026<br>

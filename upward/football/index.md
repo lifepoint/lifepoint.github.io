@@ -14,14 +14,16 @@ order: 1
 <a class="upward-register-btn" href="https://registration.upward.org/UPW90429">REGISTER NOW</a>
 <!--REGISTRATION OPENING SOON-->
 
-**BOYS AND GIRLS, GRADES 1-8:** Including kindergartener's born before 6/30/20<br>
+**BOYS AND GIRLS, GRADES 1-4 / BOYS Grades 5-8:** Including kindergartener's born before 6/30/20<br>
 When: August 17 - October 24, 2026<br>
 Fees: $130 per player (sibling discounts available)<br>
 Includes: 8 game season, reversible jersey and shorts<br>
 
+**GIRLS 5th - 8th Grade Division:** Our intent is to form all-girls teams if participation numbers allow. With limited enrollment, this may result in teams being adjusted from week to week, and games will be played as scrimmages between the two girls teams rather than scheduled league matchups. If participation numbers do not allow for all-girls teams, registered girls will be placed on co-ed teams.
+
 **NOTE: Each division has a LIMITED NUMBER of available spots. Waiting lists will form once filled.**
 
-**Division Breakdown:**<br>
+**Boys Division Breakdown:**<br>
 1st-2nd Grade<br>
 3rd-4th Grade<br>
 5th-6th Grade<br>

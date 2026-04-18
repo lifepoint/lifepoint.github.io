@@ -21,3 +21,11 @@ order: 2
   <div class="cabin-profile-description"></div>
   </div>
 </div>
+<div class="row">
+  <div class="col-6 cabin-profile">
+  <div class="cabin-profile-image" style="background-image: url(https://res.cloudinary.com/deqkp2xjs/image/upload/v1776475013/images/newbill.png);background-position: center 22%"></div>
+  <div class="cabin-profile-title">Steve Newbill</div>
+  <div class="cabin-profile-label"></div>
+  <div class="cabin-profile-description"></div>
+  </div>
+</div>

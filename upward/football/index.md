@@ -51,7 +51,7 @@ June 20, 2026
 - August 17, 2026 - Practices Begin
 - August 22, 2026 - Picture Day
 - September 5, 2026 - Games Begin
-- October 24, 2025 - Last games
+- October 24, 2026 - Last games
 
 ### FAQs
 

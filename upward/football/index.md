@@ -14,6 +14,8 @@ order: 1
 <a class="upward-register-btn" href="https://registration.upward.org/UPW90429">REGISTER NOW</a>
 <!--REGISTRATION OPENING SOON-->
 
+**REGISTRATION CLOSES June 13, 2026**<br>
+
 **BOYS AND GIRLS, GRADES 1-4 / BOYS Grades 5-8:** Including kindergartener's born before 6/30/20<br>
 When: August 17 - October 24, 2026<br>
 Fees: $130 per player (sibling discounts available)<br>

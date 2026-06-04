@@ -34,6 +34,14 @@ Sierra View Elementary School<br>
 1323 E J Street<br>
 Oakdale, CA 95361
 
+**Evaluations**<br>
+June 20, 2026
+- 1st - 2nd Grade: 9:00 am
+- 3rd-4th Grade: 9:30 am
+- 5th -6th Grade: 10:00 am
+- 7th-8th Grade: 10:30 am
+
+
 **Important Dates:**
 
 - June 20, 2026 - Player Evaluations

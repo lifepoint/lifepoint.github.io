@@ -11,10 +11,7 @@ order: 1
 
 # FLAG FOOTBALL FALL LEAGUE 2026
 
-<a class="upward-register-btn" href="https://registration.upward.org/UPW90429">REGISTER NOW</a>
-<!--REGISTRATION OPENING SOON-->
-
-**REGISTRATION CLOSES June 13, 2026**<br>
+**REGISTRATION CLOSED<br>
 
 **BOYS AND GIRLS, GRADES 1-8 Including kindergartener's born before 6/30/20<br>
 When: August 17 - October 24, 2026<br>
@@ -48,10 +45,10 @@ June 20, 2026
 - June 24, 2026 - Makeup Evaluations
 - July 11, 2026 - Draft Day (Coaches Only)
 - August 5, 2026 - Coach Meeting (Coaches Only)
-- August 17, 2026 - Practices Begin
+- August 24, 2026 - Practices Begin
 - August 22, 2026 - Picture Day
-- September 5, 2026 - Games Begin
-- October 24, 2026 - Last games
+- September 12, 2026 - Games Begin
+- October 31, 2026 - Last games
 
 ### FAQs
 

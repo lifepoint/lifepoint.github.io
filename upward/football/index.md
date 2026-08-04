@@ -46,7 +46,7 @@ June 20, 2026
 - July 11, 2026 - Draft Day (Coaches Only)
 - August 5, 2026 - Coach Meeting (Coaches Only)
 - August 24, 2026 - Practices Begin
-- August 22, 2026 - Picture Day
+- August 29, 2026 - Picture Day
 - September 12, 2026 - Games Begin
 - October 31, 2026 - Last games
 

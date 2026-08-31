@@ -24,25 +24,19 @@ order: 1
 </div>
 <div class="row">
   <div class="col-6 cabin-profile">
-  <div class="cabin-profile-image" style="background-image: url(https://res.cloudinary.com/deqkp2xjs/image/upload/v1592942399/images/bryce.png);background-position: center 45%"></div>
-  <div class="cabin-profile-title">Bryce Maness</div>
-  <div class="cabin-profile-label">Youth Pastor</div>
-  <div class="cabin-profile-description">Bryce leads our students from 6th-12th grade and helps them to connect with God and grow in their faith. He has a heart to come along side parents to help them disciple their teens and pre-teens in loving God and loving others. He also is here to help Steve accomplish the vision at LifePoint. Bryce has been married to his wife Maggie for 14 years, they have two amazing daughters Avery and Elsey.  Bryce began serving in Oakdale youth ministry when he was 18 years old, he has been a Registered Nurse for 16 years, served as a Youth Leader and Youth Pastor in Oakdale for 10 years, he likes to “geek out” on the Bible, workout, play videos games and hang out with people.</div>
-  </div>
-  <div class="col-6 cabin-profile">
   <div class="cabin-profile-image" style="background-image: url(https://res.cloudinary.com/deqkp2xjs/image/upload/v1544204830/images/amy.jpg);background-position: center 23%"></div>
   <div class="cabin-profile-title">Amy Benziger</div>
   <div class="cabin-profile-label">Bookkeeper</div>
   <div class="cabin-profile-description">Amy is responsible for bookkeeping, planning events, and general organization around the church. She is married to Tyler, has two beautiful kids, Brody & Grace, loves to sing and to solve jigsaw puzzles.</div>
   </div>
-</div>
-<div class="row">
 <div class="col-6 cabin-profile">
   <div class="cabin-profile-image" style="background-image: url(https://res.cloudinary.com/deqkp2xjs/image/upload/v1704314309/images/jenn.jpg);background-position: center 40%"></div>
   <div class="cabin-profile-title">Jennifer Harris</div>
   <div class="cabin-profile-label">Assistant</div>
   <div class="cabin-profile-description">Jennifer is responsible for communication of the church bulletin and weekly upkeep of the church and classrooms. She has been married to her husband Nolan for over 25 years has a son Nolan and step daughter Ashlee. Jennifer likes spending time praying with others, enjoys a good cup of tea and staying involved in the community. She loves nature and gardening.</div>
   </div>
+</div>
+<div class="row">
   <div class="col-6 cabin-profile">
   <div class="cabin-profile-image" style="background-image: url(https://res.cloudinary.com/deqkp2xjs/image/upload/v1544204840/images/tyler.jpg);background-position: center 15%"></div>
   <div class="cabin-profile-title">Tyler Benziger</div>
